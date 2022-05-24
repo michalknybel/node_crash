@@ -1,0 +1,20 @@
+{
+  "name": "javascript_crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalknybel/javascript_crash.git"
+  },
+  "author": "Michal Knybel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalknybel/javascript_crash/issues"
+  },
+  "homepage": "https://github.com/michalknybel/javascript_crash#readme"
+}
